@@ -1,4 +1,4 @@
-# 03-fundamentos
+# Indecision app
 
 ## Project setup
 ```
